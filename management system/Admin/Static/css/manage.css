@@ -1,0 +1,552 @@
+body{
+    font-family: 'Font Awesome 5 Free';
+    text-align: right;
+    direction: rtl;
+}
+.icon-trash{color: #dc3545;}.icon-edit{color: green;} .sum{margin: 0px 120px 2px 0px;
+    border: 1px green solid;
+    padding: 7px 10px 7px 10px;
+    font-size: large;
+    font-weight: 600;}
+.bold{
+    font-weight: 600;
+}
+.navbar-logo{
+    
+}
+.logo{
+    width: 93%;
+}
+.navv{
+    background-color: #162339a6;
+    height: fit-content; 
+}
+.navbar-options{
+        margin: 0px 0px 0px 0px;
+    padding: 20px 10px 27px 16px;
+}
+.navbar-option{
+    padding: 23px 22px 35px 22px;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    color: aliceblue;
+}
+.last-border{
+    border-left: 0px;
+}
+.navbar-option:hover{
+        background-color: #00ccfba6;
+        color: black;
+        font-family: 'Font Awesome 5 Free';
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 18px;
+        border-radius: 2px;
+        transition: 0.5s;
+}
+/* ---------------- */
+.mainP{
+    background-image: url(../pic/Digital-Health.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}
+.depts{
+    margin-top: 5rem;
+    background-color: #000000b8;
+    border-radius: 24px;
+    padding-bottom: 3rem;
+}
+.dept1{
+    margin-top: 3rem;
+   
+}
+.dept2{
+    margin-top: 3rem;
+    padding-left: 3rem;
+    
+}
+.dept3{
+    margin-top: 3rem;
+    padding-left: 3rem;
+    
+}
+
+/* ---------------- */
+/* ---------------- */
+/* --------------- */
+/* ---------------- */
+.emp{
+    background-color: #7d7ddc;
+    height: 10rem;
+    width: 10rem;
+}
+
+
+.Addemp{background-color: #503ee2;}.manageSite{background-color: #565556;}
+
+
+/* ---------------- */
+
+
+}.Dr{background-color: #5fb3a3;}.Phar{background-color: #d5d839;}.lap{background-color: #2d9221;}.all{background-color: #565556;}
+
+
+/* ---------------- */
+
+.report{background-color: #7d7ddc;}
+
+/* ---------------- */
+
+
+
+.emp > i {
+    color: aliceblue;
+    padding: 3rem;
+}
+.emp > i:hover{
+font-size: 20px;
+transition: 0.5s;
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- Add an employee start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.h1Emp{
+    font-size: 26px;
+    color: #1b7897;
+    font-family: -webkit-body;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px; 
+}
+.allFormAddEmp{
+    margin: 1rem 0rem 0rem 0rem;
+    padding: 35px 10px 9px 28px;
+    background-color: #ffffffcc;
+    border-radius: 13px;
+ 
+}
+
+.AddEmpP{
+    background-image: url(../pic/960x0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.formAddEmp{
+   
+   
+}
+.selectAddemp{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px; 
+}
+.fieldAddEmp{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px;
+}
+.btnFieldAddEmp{
+    background-color: #1c89a6;
+    position: relative;
+    float: left;
+    width: 5rem;
+    font-family: cursive;
+    font-weight: 600;
+}
+.form-right{
+    margin: 0rem 0rem 0rem 0rem;
+    border-left: 1px solid #1b7897;
+    
+}
+.form-left{
+    
+     margin: 0rem 0rem 0rem 0rem;
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  add an employee end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- Add an admin start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.AddAdminP{
+    background-image: url(../pic/960x0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+.h1Admin{
+    font-size: 26px;
+    color: #1b7897;
+    font-family: -webkit-body;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px; 
+}
+.allFormAddadmin{
+    margin: 2rem 0rem 0rem 0rem;
+    padding: 35px 10px 9px 28px;
+    background-color: #ffffffcc;
+    border-radius: 13px;
+}
+
+
+.formAddadmin{
+    margin: 0rem 3rem 2rem 0rem;
+    padding: 0rem 16rem 1rem 16rem;
+    border-bottom: 1px solid blue;
+}
+.selectAddadmin{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px; 
+}
+.fieldAddadmin{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px;
+}
+.btnFieldAddadmin{
+    background-color: #1c89a6;
+    position: relative;
+    float: left;
+    width: 5rem;
+    font-family: cursive;
+    font-weight: 600;
+}
+.formAdmin2{
+    
+    
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  add an employee end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
+
+
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- income start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.h1Doc{
+    font-size: 26px;
+    color: #1b7897;
+    font-family: -webkit-body;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px; 
+}
+.allForm{
+    margin: 6rem 1rem 1rem 6rem;
+    padding: 35px 10px 9px 28px;
+    background-color: #ffffffd1;
+    border-radius: 24px;
+}
+
+.docP{
+    background-image: url(../pic/40-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}
+.formEmp1{
+    border-left: 1px solid #1a83a1;
+    
+}
+.selectemp{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px; 
+}
+.field{
+    width: -webkit-fill-available;
+    height: 2.3rem;
+    margin-bottom: 1rem;
+    border: #187a98 2px solid;
+    border-radius: 4px;
+}
+.btnField{
+    background-color: #1c89a6;
+    position: relative;
+    float: left;
+    width: 5rem;
+    font-family: cursive;
+    font-weight: 600;
+}
+.formEmp2{
+    
+    
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  income end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  EMPLOYEES start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+.tablesEmp{
+    
+    
+    
+}
+.h1DocTable{
+    font-size: 26px;
+    color: #1b7897;
+    font-family: -webkit-body;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px; 
+}
+.allTable{
+    margin: 0rem 1rem 0rem 0rem;
+    padding: 0px 1px 1px 1px;
+    background-color: #ffffff8f;
+    border-radius: 4px;
+}
+.empP{
+    background-image: url(../pic/hospitality-economics-online-course.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}
+.fullincomelinks{
+    margin: 31px 0px 31px 0px;
+}
+.fullincome{
+    margin: 0px 1px 0px 0px;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 12px 15px 15px 15px;
+    background-color: #e5eee7;
+    border-bottom: 4px #1b7897 solid;
+}.fullincome:hover{
+    background-color: #f8fafb;
+    text-decoration: none;
+    border-bottom: 1px #1b7897 solid ;
+    transition: 0.5s;
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  EMPLOYEES end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
+
+
+
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  filter start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.filter-form{
+    display: inline-flex;
+    width: fit-content;
+    margin-bottom: 6px;
+    float: right;
+}
+.filter{
+        margin-left: 15px;
+}
+
+.filterBtn{
+    margin: 1px 2px 4px 8px;
+    padding: 0px 24px 0px 23px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 40%);
+
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- filter end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
+
+
+
+
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- all incomes start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.IncomesP{
+    background-image: url(../pic/hospitality-economics-online-course.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+}
+.fullincomelinks{
+    margin: 31px 0px 31px 0px;
+}
+.fullincome{
+    margin: 0px 1px 0px 0px;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 12px 15px 15px 15px;
+    background-color: #e5eee7;
+    border-bottom: 4px #1b7897 solid;
+}.fullincome:hover{
+    background-color: #f8fafb;
+    text-decoration: none;
+    border-bottom: 1px #1b7897 solid ;
+    transition: 0.5s;
+}
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* ----- all incomes end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  incomes-doc start ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+.shadow{
+    height: inherit;
+    background-color: #fbfbfbc9;
+}
+.incomesTable{
+    
+     background-image: url(../pic/hospitality-economics-online-course.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+      
+}
+.tablesincomes{
+      box-shadow: 0 4px 8px 0 rgb(0 0 0 / 40%);
+    
+    
+}
+.h1incomesTable{
+    font-size: 26px;
+    color: #1b7897;
+    font-family: -webkit-body;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px; 
+    margin-top: 30px;
+    
+}
+    
+
+
+.incomeBtn{
+    margin: 1px 2px 4px 8px;
+    border-radius: 4px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 40%);
+}
+.incomeBtnSUM{
+    margin: 1px 2px 4px 13rem;
+    border-radius: 4px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 40%);
+}
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+/* -----  incomes-doc end ------- */
+/* ---------------- */
+/* ---------------- */
+/* ---------------- */
+
+
+
+
